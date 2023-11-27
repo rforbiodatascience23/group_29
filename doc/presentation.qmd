@@ -60,18 +60,6 @@ editor: visual
 
 ::: {style="font-size: 50%;"}
 ::: fragment
--  Data includes patient bar code, type of cancer, age at diagnosis, and pathologic tumor stage
-:::
-:::
-
-::: {style="font-size: 50%;"}
-::: fragment
--   This dataset facilitates a nuanced understanding of molecular intricacies of cancer
-:::
-:::
-
-::: {style="font-size: 50%;"}
-::: fragment
 -   Data set helps allowing identification of patterns and shared characteristics among different cancer types\
 :::
 :::
