@@ -191,6 +191,24 @@ TCGA_aug <- TCGA_aug |>
 
 ## Exploratory Data Analysis Insights
 
+  -   relevant plots of all variables are in the results directory
+      -   E.g. histograms, boxplots, barplots
+      -   Created with ggplot2
+
+
+::: {style="font-size: 50%;"}
+::: columns
+::: {.column width="33%"}
+![stages](./../results/04_describe/04_categorical/04_stage_cancertype_barplot.png)
+:::
+::: {.column width="33%"}
+![gender](./../results/04_describe/04_categorical/04_gender_cancertype_barplot.png)
+:::
+::: {.column width="33%"}
+![OS](./../results/04_describe/04_numeric/04_OS.time_histogram.png)
+:::
+:::
+:::
 
 
 
