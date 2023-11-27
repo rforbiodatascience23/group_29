@@ -11,3 +11,5 @@ Presentation link: [R for Bio Data Science, group 29](https://raw.githack.com/rf
 -   Sina Ahmadzai, s190482 - github: s190482 
 
 -   Yusuf Tunc, s233898 - github: tulimsen
+
+## quarto render 00_all.qmd should be run from the terminal
