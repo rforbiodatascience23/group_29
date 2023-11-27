@@ -15,7 +15,7 @@ editor: visual
 :::
 :::
 
-::: {style="font-size: 50%;"}
+::: {style="font-size: 50%;"} 
 ::: fragment
 -   Establishing coordinated effort to characterize molecular events in primary cancers
 :::
