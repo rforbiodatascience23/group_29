@@ -12,7 +12,7 @@ editor: visual
 ::: {style="font-size: 50%;"}
 ::: fragment
 -   The Cancer Genome Atlas (TCGA)
-:::
+::: 
 :::
 
 ::: {style="font-size: 50%;"}
